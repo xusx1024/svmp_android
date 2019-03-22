@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c05e1ae8-b907-480b-920e-f5eae1ec0618" name="Default Changelist" comment="build output">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MemorizingTrustManager/de/duenndns/ssl/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MemorizingTrustManager/de/duenndns/ssl/MTMDecision.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MemorizingTrustManager/de/duenndns/ssl/MemorizingActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MemorizingTrustManager/de/duenndns/ssl/MemorizingTrustManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MemorizingTrustManager/de/duenndns/ssl/MemorizingTrustManager$MemorizingHostnameVerifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MemorizingTrustManager/de/duenndns/ssl/MemorizingTrustManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MemorizingTrustManager/de/duenndns/ssl/R$attr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MemorizingTrustManager/de/duenndns/ssl/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MemorizingTrustManager/de/duenndns/ssl/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/com/cameronpalmer/echo/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/ByteBufferInputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/ByteBufferOutputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/Doxygen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/NoCopyByteArrayOutputStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/PrefixMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/Utf8Validator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocket$WebSocketConnectionObserver$WebSocketCloseNotification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocket$WebSocketConnectionObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketConnection$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketConnection$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketConnection$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketConnection$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketConnection$SocketThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketConnection$ThreadHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketConnectionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketFrameHeader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$BinaryMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$ClientHandshake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$Close.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$ConnectionLost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$Error.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$Ping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$Pong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$ProtocolViolation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$Quit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$RawTextMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$ServerError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$ServerHandshake.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$TextMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage$WebSocketCloseCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketOptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketReader$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketReader$ReaderState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketWriter$ThreadHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/SecureWebSockets/de/tavendo/autobahn/WebSocketWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/Manifest$permission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/Manifest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R$array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R$attr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R$dimen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R$drawable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R$id.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R$layout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R$menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R$raw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R$xml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/cameronpalmer/echo/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/google/PRNGFixes$LinuxPRNGSecureRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/google/PRNGFixes$LinuxPRNGSecureRandomProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/com/google/PRNGFixes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/de/duenndns/ssl/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/de/duenndns/ssl/Manifest$permission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/de/duenndns/ssl/Manifest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/de/duenndns/ssl/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/de/duenndns/ssl/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/appspot/apprtc/FramePool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/appspot/apprtc/VideoStreamsView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/appspot/apprtc/VideoStreamsView$Endpoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/appspot/apprtc/VideoStreamsView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppList$TabListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppListFragment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCActivity$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCActivity$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCActivity$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCActivity$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCChangePasswordActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCChangePasswordActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCRefreshAppsActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCRefreshAppsActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCVideoActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/AppRTCVideoActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/ConnectionDetails$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/ConnectionDetails$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/ConnectionDetails$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/ConnectionDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/ConnectionList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/ConnectionList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpActivity$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpActivity$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpActivity$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpActivity$4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpActivity$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpActivity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpPreferences$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpPreferences$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpPreferences$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpPreferences$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/activities/SvmpPreferences.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/AppRTCClient$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/AppRTCClient$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/AppRTCClient$SVMPAuthenticator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/AppRTCClient$SocketConnector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/AppRTCClient$SocketHandlerThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/AppRTCClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/AppRTCHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/AppRTCSignalingParameters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/MessageHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/PCObserver$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/PCObserver$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/PCObserver$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/PCObserver$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/PCObserver$4$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/PCObserver$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/PCObserver$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/PCObserver$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/PCObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/SDPObserver$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/SDPObserver$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/SDPObserver$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/SDPObserver$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/SDPObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/VideoCallbacks$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/apprtc/VideoCallbacks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/AuthData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/AuthRegistry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/SVMPKeyManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/module/CertificateModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/module/IAuthModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/module/PasswordChangeModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/module/PasswordModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/module/SecurityTokenModule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/type/CertificateType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/type/IAuthType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/type/PasswordAndSecurityTokenType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/type/PasswordType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/auth/type/SecurityTokenType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/BuildConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/ConfigHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/IntentHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/IntentHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/KeyHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/LocationHandler$SVMPLocationListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/LocationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/Manifest$permission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/Manifest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/NotificationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R$array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R$attr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R$dimen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R$drawable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R$id.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R$layout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R$menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R$raw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R$string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R$xml.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/R.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/RotationHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/RotationHandler$RotateTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/RotationHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/SendNetIntent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/SensorHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/client/TouchHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/common/AppInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/common/ConnectionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/common/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/common/DatabaseHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/common/SessionInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/common/StateMachine$STATE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/common/StateMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/common/StateObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/common/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/net/SSLConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/net/SvmpSSLSocketFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/performance/MeasureCpuThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/performance/MeasureTask$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/performance/MeasureTask$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/performance/MeasureTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/performance/MeasurementInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/performance/PerformanceAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/performance/PerformanceTimer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/performance/PingTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/performance/PointPerformanceData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/performance/SpanPerformanceData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/services/SessionService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/services/SessionService$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/services/SessionService$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/services/SessionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/widgets/AppInfoArrayAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/widgets/AuthModuleArrayAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/widgets/ConnectionInfoArrayAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/widgets/GridArrayAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/org/mitre/svmp/widgets/TwoLineArrayAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/svmp-android-client.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-android-client/svmp-android-client.unaligned.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppInfo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppInfo$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppInfoOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsRequest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsRequest$AppsRequestType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsRequest$AppsRequestType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsRequest$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsRequestOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsResponse$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsResponse$AppsResponseType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsResponse$AppsResponseType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsResponse$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AppsResponseOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AuthResponse$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AuthResponse$AuthResponseType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AuthResponse$AuthResponseType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AuthResponse$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AuthResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$AuthResponseOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Config$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Config$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Config.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$ConfigOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Intent$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Intent$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Intent$Tuple$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Intent$Tuple$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Intent$Tuple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Intent$TupleOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Intent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$IntentAction$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$IntentAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$IntentOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$KeyEvent$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$KeyEvent$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$KeyEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$KeyEventOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderEnabled$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderEnabled$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderEnabled.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderEnabledOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderInfo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderInfo$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderInfoOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderStatus$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderStatus$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderStatus$Tuple$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderStatus$Tuple$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderStatus$Tuple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderStatus$TupleOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationProviderStatusOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationRequest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationRequest$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationRequest$LocationRequestType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationRequest$LocationRequestType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationRequestOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationResponse$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationResponse$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationResponse$LocationResponseType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationResponse$LocationResponseType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationResponseOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationSubscribe$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationSubscribe$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationSubscribe$LocationSubscribeType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationSubscribe$LocationSubscribeType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationSubscribe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationSubscribeOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationUnsubscribe$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationUnsubscribe$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationUnsubscribe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationUnsubscribeOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationUpdate$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationUpdate$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationUpdate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$LocationUpdateOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Notification$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Notification$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Notification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$NotificationOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Ping$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Ping$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Ping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$PingOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Request$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Request$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Request$RequestType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Request$RequestType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Request.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$RequestOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Response$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Response$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Response$ResponseType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Response$ResponseType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$ResponseOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$RotationInfo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$RotationInfo$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$RotationInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$RotationInfoOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$ScreenInfo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$ScreenInfo$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$ScreenInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$ScreenInfoOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$SensorEvent$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$SensorEvent$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$SensorEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$SensorEventOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$SensorType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$SensorType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent$HistoricalEvent$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent$HistoricalEvent$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent$HistoricalEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent$HistoricalEventOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent$PointerCoords$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent$PointerCoords$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent$PointerCoords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent$PointerCoordsOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$TouchEventOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$VideoStreamInfo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$VideoStreamInfo$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$VideoStreamInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$VideoStreamInfoOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$WebRTCMessage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$WebRTCMessage$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$WebRTCMessage$WebRTCType$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$WebRTCMessage$WebRTCType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$WebRTCMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol$WebRTCMessageOrBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/svmp-protocol-def/org/mitre/svmp/protocol/SVMPProtocol.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2126882598">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="D:/apk2j/jadx/jadx/jadx-gui" value="10434683325786" />
+        <entry key="D:/umeng_message201703141628_3.1.0.upush/PushExample" value="5957920338000" />
+        <entry key="E:/HuomaOnlineVersion" value="10393064221144" />
+        <entry key="E:/HuomaOnlineVersion/1.4branch" value="10393043619154" />
+        <entry key="E:/OtherProjects/AccessibilityManager/qianghongbao" value="4478015115846" />
+        <entry key="E:/OtherProjects/AccountManagerSample" value="4519707769621" />
+        <entry key="E:/OtherProjects/CaptioningManager/accessibilitools" value="5980307764824" />
+        <entry key="E:/OtherProjects/JTV" value="5992414948381" />
+        <entry key="E:/OtherProjects/JTV/app" value="5992414948381" />
+        <entry key="E:/OtherProjects/aac" value="4519168985121" />
+        <entry key="E:/OtherProjects/android-persistence" value="4518955528347" />
+        <entry key="E:/OtherProjects/anko-example/anko-example" value="4465001612986" />
+        <entry key="E:/OtherProjects/webviewDemo/webviewvideodemo/app" value="4479855642832" />
+        <entry key="E:/RealNameAuthDemo" value="4496856290124" />
+        <entry key="E:/huoma_onlineversion_1.7" value="10434168162125" />
+        <entry key="E:/react_native_workspace/AwesomeProject/android" value="4450529244591" />
+        <entry key="E:/tinker" value="16271000020633" />
+        <entry key="E:/umeng_android_social_sdk_6.4.0_custom/umeng_android_social_sdk_6.4.0_custom/social_sdk_example_as" value="4468009626000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Bugly_v2.8.6/BuglySDKDemo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/gt3-android-latest/gt-android-sdk-20190122/Example/gt3-android-sdk" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Xg-Push-SDK-Android-4.0.5/Xg-Push-SDK-Android/XGDemoForAndroidStudio" value="PREVIEW" />
+        <entry key="D:/TV/leanback-showcase" value="PREVIEW" />
+        <entry key="D:/VirtualApp/VirtualApp/VirtualApp" value="PREVIEW" />
+        <entry key="D:/geektime/Chapter07" value="PREVIEW" />
+        <entry key="D:/geektime/Chapter12" value="PREVIEW" />
+        <entry key="D:/geektime/chapter03" value="PREVIEW" />
+        <entry key="D:/git_input/android_wubi_input" value="PREVIEW" />
+        <entry key="E:/OtherProjects/MyApplication" value="PREVIEW" />
+        <entry key="E:/SDK/gameSDK/Android/trunk/GameSDK" value="PREVIEW" />
+        <entry key="E:/UGAMES/ugame_dev" value="PREVIEW" />
+        <entry key="E:/okgo/okhttp-OkGo" value="PREVIEW" />
+        <entry key="E:/pathview/BRVAH_kotlin" value="PREVIEW" />
+        <entry key="E:/pathview/SmartRefreshLayout" value="PREVIEW" />
+        <entry key="E:/pathview/android-pathview" value="PREVIEW" />
+        <entry key="E:/ugames_flutter/.android" value="PREVIEW" />
+        <entry key="E:/zuhao/Android/dev/ShareAccount" value="PREVIEW" />
+        <entry key="E:/zuhao/Android/dev/sharedaccount" value="PREVIEW" />
+        <entry key="E:/zuhao/Android/trunk/rentaccount" value="PREVIEW" />
+        <entry key="E:/新建文件夹 (2)/android-pathview" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1874" />
+    <option name="y" value="-130" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="E:/androidSDK" />
+    <property name="last_opened_file_path" value="D:/VirtualApp/AutoLogin" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="svmp-android-client" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="svmp-android-client" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sxx.xu\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c05e1ae8-b907-480b-920e-f5eae1ec0618" name="Default Changelist" comment="" />
+      <created>1553247971099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553247971099</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-188" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32976446" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Statistic" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="PlantUML" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29429734" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
