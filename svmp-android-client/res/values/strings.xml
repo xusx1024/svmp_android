@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2013 The MITRE Corporation, All Rights Reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this work except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">SVMP Client</string>
+    <string name="error">Error</string>
+    <string name="errorCamera">Camera Error</string>
+    <string name="codectype_prompt">Choose a codec type</string>
+    <string name="demoTitle">Video Engine Android Demo</string>
+    <string name="description">Logo</string>
+    <string name="codecType">Codec Type</string>
+    <string name="codecSize">Codec Size</string>
+    <string name="remoteIp">Remote IP address</string>
+    <string name="loopback">Loopback</string>
+    <string name="stats">Stats</string>
+    <string name="startListen">Start Listen</string>
+    <string name="startSend">Start Send</string>
+    <string name="startBoth">Start Both</string>
+    <string name="enableVoice">Voice</string>
+    <string name="enableVideoReceive">Video Receive</string>
+    <string name="enableVideoSend">Video Send</string>
+    <string name="gSettings">Global Settings</string>
+    <string name="vSettings">Video Settings</string>
+    <string name="vTxPort">Video Tx Port</string>
+    <string name="vRxPort">Video Rx Port</string>
+    <string name="aTxPort">Audio Tx Port</string>
+    <string name="aRxPort">Audio Rx Port</string>
+    <string name="AutoGainControl">AGC</string>
+    <string name="VoiceActivityDetection">VAD</string>
+    <string name="AECM">AECM</string>
+    <string name="NoiseSuppression">NS</string>
+    <string name="nack">NACK</string>
+    <string name="frontCamera">SwitchToFront</string>
+    <string name="backCamera">SwitchToBack</string>
+    <string name="startCall">StartCall</string>
+    <string name="stopCall">StopCall</string>
+    <string name="exit">Exit</string>
+    <string name="speaker">Speaker</string>
+    <string name="debugrecording">APMRecord</string>
+    <string name="rtpdump">rtpdump</string>
+    <string name="surfaceview">SurfaceView</string>
+    <string name="mediacodec">MediaCodec Decoder/Renderer</string>
+    <string name="opengl">OpenGL</string>
+
+    <!-- ConnectionList layout resources -->
+    <string name="connectionList_title">SVMP Connections</string>
+    <string name="connectionList_button_new_text">New</string>
+    <string name="connectionList_button_exit_text">Exit</string>
+    <string name="connectionList_context_connectToDesktop_text">Connect to desktop</string>
+    <string name="connectionList_context_editConnection_text">Edit connection</string>
+    <string name="connectionList_context_removeConnection_text">Remove connection</string>
+    <string name="connectionList_context_stop_text">Stop service</string>
+    <string name="connectionList_context_changePassword_text">Change password</string>
+
+    <!-- ConnectionDetails layout resources -->
+    <string name="connectionDetails_title">SVMP Connection Details</string>
+    <string name="connectionDetails_textView_description_text">Description</string>
+    <string name="connectionDetails_textView_username_text">Username</string>
+    <string name="connectionDetails_textView_host_text">Host</string>
+    <string name="connectionDetails_textView_port_text">Port</string>
+    <string name="connectionDetails_textView_encryption_text">Encryption</string>
+    <string name="connectionDetails_textView_domain_text">Domain</string>
+    <string name="connectionDetails_textView_authType_text">Auth Type</string>
+    <string name="connectionDetails_textView_certificate_text">Certificate</string>
+    <string name="connectionDetails_button_save_text">Save</string>
+    <string name="connectionDetails_button_cancel_text">Cancel</string>
+    <string name="connectionDetails_button_certificate_none_text">none</string>
+
+    <!-- AppList layout resources -->
+    <string name="appList_title">SVMP Apps</string>
+    <string name="appList_button_refreshList_text">Refresh List</string>
+    <string name="appList_actionBar_allApps">All Apps</string>
+    <string name="appList_actionBar_favorites">Favorites</string>
+
+    <!-- ConnectionList toast resources -->
+    <string name="connectionList_toast_added">New connection created</string>
+    <string name="connectionList_toast_updated">Connection updated</string>
+    <string name="connectionList_toast_error">Error creating new connection</string>
+    <string name="connectionList_toast_notFound">Connection not found</string>
+    <string name="connectionList_toast_removed">Connection removed</string>
+    <string name="connectionList_toast_passwordChange_success">Password changed successfully</string>
+
+    <!-- ConnectionDetails toast resources -->
+    <string name="connectionDetails_toast_invalidPort">Invalid port number (must be 1 to 65535)</string>
+    <string name="connectionDetails_toast_blankDescription">Description must not be blank</string>
+    <string name="connectionDetails_toast_ambiguousDescription">That description is already used</string>
+    <string name="connectionDetails_toast_blankUsername">Username must not be blank</string>
+    <string name="connectionDetails_toast_blankHost">Host must not be blank</string>
+    <string name="connectionDetails_toast_certAuthNeedsSsl">Certificate authentication can only be used on an encrypted connection</string>
+    <string name="connectionDetails_toast_certAuthNeedsAlias">You must select a certificate to use certificate authentication</string>
+
+    <!-- SvmpActivity toast resources -->
+    <string name="svmpActivity_toast_sessionMaxTimeout">SVMP session reached max life timeout, please re-authenticate</string>
+    <string name="svmpActivity_toast_sessionIdleTimeout">SVMP session reached idle timeout, please re-authenticate</string>
+    <string name="svmpActivity_toast_needPasswordChange">You must change your password before proceeding</string>
+    <string name="svmpActivity_toast_newPasswordFail_noMatch">New password and confirmation do not match!</string>
+    <string name="svmpActivity_toast_newPasswordFail_tooShort">New password must be at least 8 characters!</string>
+    <string name="svmpActivity_toast_newPasswordFail_same">New password must be different from old password!</string>
+
+    <!-- AppRTC toast resources -->
+    <string name="appRTC_toast_connection_start">Connecting to room…</string>
+    <string name="appRTC_toast_connection_notFound">Connection info not found!</string>
+    <string name="appRTC_toast_connection_finish">Error, connection has been closed</string>
+    <string name="appRTC_toast_socketConnector_failUntrustedServer">Error connecting (untrusted server certificate)</string>
+    <string name="appRTC_toast_socketConnector_failSSLHandshake">Error during SSL handshake</string>
+    <string name="appRTC_toast_socketConnector_failSSL">Error connecting (check your encryption settings)</string>
+    <string name="appRTC_toast_socketConnector_404">Error connecting (server not found)</string>
+    <string name="appRTC_toast_socketConnector_fail">Error connecting</string>
+    <string name="appRTC_toast_socketConnector_success">Connected to host</string>
+    <string name="appRTC_toast_svmpAuthenticator_fail">Authentication failed, try again</string>
+    <string name="appRTC_toast_svmpAuthenticator_passwordChangeFail">Authentication failed, try again</string>
+    <string name="appRTC_toast_svmpAuthenticator_interrupted">Connection interrupted</string>
+    <string name="appRTC_toast_svmpAuthenticator_success">Authenticated successfully</string>
+    <string name="appRTC_toast_svmpAuthenticator_bypassed">Found stored session information</string>
+    <string name="appRTC_toast_svmpReadyWait_fail">Server failed to initialize VM.</string>
+    <string name="appRTC_toast_svmpReadyWait_success">VM is ready, querying for WebRTC channel info</string>
+    <string name="appRTC_toast_getIceServers_start">Waiting for ICE candidates…</string>
+    <string name="appRTC_toast_clientHandler_start">Creating offer…</string>
+    <string name="appRTC_toast_clientHandler_finish">Remote end hung up; dropping PeerConnection</string>
+    <string name="appRTC_toast_sdpObserver_sendOffer">Sending offer</string>
+
+    <!-- AppList toast resources -->
+    <string name="appList_toast_addedFavorite">Added app to favorites</string>
+    <string name="appList_toast_removedFavorite">Removed app from favorites</string>
+    <string name="appList_toast_createdShortcut">Sending create command&#8230;</string>
+    <string name="appList_toast_removedShortcuts">Sending remove command&#8230;</string>
+    <string name="appList_toast_notFound">Couldn\'t find requested app</string>
+    <string name="appList_toast_refreshSuccess">Successfully refreshed apps</string>
+    <string name="appList_toast_refreshFail">App refresh failed, please try again</string>
+
+    <!-- AppList toast resources -->
+    <string name="intentHandler_toast_noTelephonyCDMA">This device cannot make phone calls!</string>
+    <string name="intentHandler_toast_noTelephonyGSM">This device cannot make phone calls!\n(do you need to check your SIM card?)</string>
+
+    <!-- SessionService notification resources -->
+    <string name="sessionService_notification_contentTitle">SVMP Session Service</string>
+    <string name="sessionService_notification_contentText_connected">Connected to \'%s\'</string>
+    <string name="sessionService_notification_contentText_disconnected">Re-authenticate \'%s\'</string>
+    <string name="sessionService_notification_action_open">Open</string>
+    <string name="sessionService_notification_action_exit">Exit</string>
+
+    <!-- SvmpActivity dialog resources -->
+    <string name="authPrompt_title_normal">Authentication required</string>
+    <string name="authPrompt_title_passwordChange">Change password</string>
+    <string name="authPrompt_button_positive_text">Submit</string>
+    <string name="authPrompt_button_negative_text">Cancel</string>
+
+    <!-- AppRTC dialog resources -->
+    <string name="appRTC_progressDialog_title">Starting…</string>
+    <string name="appRTC_progressDialog_message">Please wait while the connection is established. This may take a minute if the server needs to set up your environment.</string>
+
+    <!-- Menu resources -->
+    <string name="menu_title_preferences">Preferences</string>
+    <string name="menu_title_refreshAppListQuick">Refresh apps (quick)</string>
+    <string name="menu_title_refreshAppListFull">Refresh apps (full)</string>
+    <string name="contextMenu_appList_addFavorite">Add to favorites</string>
+    <string name="contextMenu_appList_removeFavorite">Remove from favorites</string>
+    <string name="contextMenu_appList_createShortcut">Create shortcut</string>
+    <string name="contextMenu_appList_removeShortcut">Remove shortcuts</string>
+
+</resources>

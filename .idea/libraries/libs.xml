@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/svmp-android-client/libs/httpcore-4.4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/svmp-android-client/libs/httpclient-osgi-4.5.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/svmp-android-client/libs/httpclient-win-4.5.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/svmp-android-client/libs/libjingle_peerconnection.jar!/" />
+      <root url="jar://$PROJECT_DIR$/svmp-android-client/libs/jna-platform-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/svmp-android-client/libs/jna-4.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

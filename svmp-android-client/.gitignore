@@ -1,0 +1,35 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+MemorizingTrustManager/bin/
+build/
+gen/
+MemorizingTrustManager/gen/
+src/org/mitre/svmp/protocol/
+build-libs/
+res/raw/client_truststore.bks
+server_certs/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+.settings
+
+# IDEA project files
+*.iml
+.idea/
+
+# gradle stuff
+.gradle/

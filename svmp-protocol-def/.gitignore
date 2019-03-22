@@ -1,0 +1,8 @@
+build/
+dist/
+/bin
+.classpath
+.project
+
+# IDEA project file
+*.iml

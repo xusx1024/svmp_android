@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2013 The MITRE Corporation, All Rights Reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this work except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <!-- Preference keys -->
+    <string name="preferenceKey_sensors_minimumDelay">sensors_minimumDelay</string>
+    <string name="preferenceKey_sensor_accelerometer">sensor_accelerometer</string>
+    <string name="preferenceKey_sensor_ambientTemperature">sensor_ambientTemperature</string>
+    <string name="preferenceKey_sensor_gyroscope">sensor_gyroscope</string>
+    <string name="preferenceKey_sensor_light">sensor_light</string>
+    <string name="preferenceKey_sensor_magneticField">sensor_magneticField</string>
+    <string name="preferenceKey_sensor_pressure">sensor_pressure</string>
+    <string name="preferenceKey_sensor_proximity">sensor_proximity</string>
+    <string name="preferenceKey_sensor_relativeHumidity">sensor_relativeHumidity</string>
+    <string name="preferenceKey_sensor_temperature">sensor_temperature</string>
+    <string name="preferenceKey_sensor_gravity">sensor_gravity</string>
+    <string name="preferenceKey_sensor_linearAcceleration">sensor_linearAcceleration</string>
+    <string name="preferenceKey_sensor_orientation">sensor_orientation</string>
+    <string name="preferenceKey_sensor_rotationVector">sensor_rotationVector</string>
+    <string name="preferenceKey_performance_takeMeasurements">performance_takeMeasurements</string>
+    <string name="preferenceKey_performance_measureInterval">performance_measureInterval</string>
+    <string name="preferenceKey_performance_pingInterval">performance_pingInterval</string>
+    <string name="preferenceKey_connection_useBackground">connection_useBackground</string>
+    <string name="preferenceKey_connection_useMTM">connection_useMTM</string>
+    <string name="preferenceKey_connection_showEncryption">connection_showEncryption</string>
+    <string name="preferenceKey_connection_useDesktopMode">connection_useDesktopMode</string>
+
+    <!-- Preference value defaults -->
+    <string name="preferenceValue_sensors_minimumDelay">1000</string>
+    <string name="preferenceValue_sensor_accelerometer">true</string>
+    <string name="preferenceValue_sensor_ambientTemperature">true</string>
+    <string name="preferenceValue_sensor_gyroscope">false</string>
+    <string name="preferenceValue_sensor_light">true</string>
+    <string name="preferenceValue_sensor_magneticField">true</string>
+    <string name="preferenceValue_sensor_pressure">true</string>
+    <string name="preferenceValue_sensor_proximity">true</string>
+    <string name="preferenceValue_sensor_relativeHumidity">true</string>
+    <string name="preferenceValue_sensor_temperature">true</string>
+    <string name="preferenceValue_sensor_gravity">false</string>
+    <string name="preferenceValue_sensor_linearAcceleration">false</string>
+    <string name="preferenceValue_sensor_orientation">false</string>
+    <string name="preferenceValue_sensor_rotationVector">false</string>
+    <string name="preferenceValue_performance_takeMeasurements">false</string>
+    <string name="preferenceValue_performance_measureInterval">1000</string>
+    <string name="preferenceValue_performance_pingInterval">5000</string>
+    <string name="preferenceValue_connection_useBackground">true</string>
+    <string name="preferenceValue_connection_useMTM">false</string>
+    <string name="preferenceValue_connection_showEncryption">false</string>
+    <string name="preferenceValue_connection_useDesktopMode">false</string>
+    
+    <!-- Preference page elements -->
+    <string name="preferenceScreen_title">SVMP Preferences</string>
+
+    <string name="preferenceCategory_connectionPreferences_title">Connection Preferences</string>
+
+    <string name="preferenceScreen_sensors_title">Sensors</string>
+    <string name="preferenceScreen_sensors_summary">Control forwarding of sensor data</string>
+
+    <string name="editTextPreference_sensors_minimumDelay_title">Minimum update delay (μs)</string>
+    <string name="editTextPreference_sensors_minimumDelay_summary">Default: 1000μs (100Hz)</string>
+
+    <string name="preferenceCategory_physicalSensors">Physical Sensors</string>
+    <string name="preferenceCategory_virtualSensors_title">Virtual Sensors</string>
+
+    <string name="checkBoxPreference_sensor_accelerometer_title">Accelerometer</string>             <!-- physical -->
+    <string name="checkBoxPreference_sensor_ambientTemperature_title">Ambient Temperature</string>  <!-- physical -->
+    <string name="checkBoxPreference_sensor_gravity_title">Gravity</string>                         <!-- virtual -->
+    <string name="checkBoxPreference_sensor_gyroscope_title">Gyroscope</string>                     <!-- physical -->
+    <string name="checkBoxPreference_sensor_light_title">Light</string>                             <!-- physical -->
+    <string name="checkBoxPreference_sensor_linearAcceleration_title">Linear Acceleration</string>  <!-- virtual -->
+    <string name="checkBoxPreference_sensor_magneticField_title">Magnetic Field</string>            <!-- physical -->
+    <string name="checkBoxPreference_sensor_orientation_title">Orientation</string>                 <!-- virtual -->
+    <string name="checkBoxPreference_sensor_pressure_title">Pressure</string>                       <!-- physical -->
+    <string name="checkBoxPreference_sensor_proximity_title">Proximity</string>                     <!-- physical -->
+    <string name="checkBoxPreference_sensor_relativeHumidity_title">Relative Humidity</string>      <!-- physical -->
+    <string name="checkBoxPreference_sensor_rotationVector_title">Rotation Vector</string>          <!-- virtual -->
+    <string name="checkBoxPreference_sensor_temperature_title">Temperature</string>                 <!-- physical -->
+
+    <string name="preferenceCategory_developerPreferences_title">Developer Preferences</string>
+
+    <string name="preferenceScreen_performance_title">Performance</string>
+    <string name="preferenceScreen_performance_summary">Control instrumentation values</string>
+
+    <string name="preferenceCategory_instrumentation_title">Instrumentation</string>
+
+    <string name="checkBoxPreference_performance_takeMeasurements_title">Take measurements</string>
+    <string name="editTextPreference_performance_measureInterval_title">Measurement interval (ms)</string>
+    <string name="editTextPreference_performance_measureInterval_summary">Default: 1000ms</string>
+    <string name="editTextPreference_performance_pingInterval_title">Ping send interval (ms)</string>
+    <string name="editTextPreference_performance_pingInterval_summary">Default: 5000ms</string>
+    <string name="preference_performance_exportData_text">Export data to CSV(s)</string> <!-- button in pref menu -->
+    <string name="preference_performance_exportData_dialog_message">Are you sure you want to export all performance data to external storage? It will take a few seconds.</string>
+    <string name="preference_performance_exportData_dialog_positiveButton">Proceed</string>
+    <string name="preference_performance_exportData_dialog_negativeButton">Cancel</string>
+    <string name="preference_performance_exportData_toast_unavailable">External storage unavailable</string>
+    <string name="preference_performance_exportData_toast_fail">Couldn\'t create folder</string>
+    <string name="preference_performance_exportData_toast_error">Export error</string>
+    <string name="preference_performance_exportData_toast_success">Export succeeded</string>
+    <string name="preference_performance_exportData_toast_noneWritten">There is no recorded data to export</string>
+    <string name="preference_performance_wipeData_text">Wipe performance data</string> <!-- button in pref menu -->
+    <string name="preference_performance_wipeData_dialog_message">Are you sure you want to wipe all performance data in the database? This will not affect data that has been exported to external storage.</string>
+    <string name="preference_performance_wipeData_dialog_positiveButton">Proceed</string>
+    <string name="preference_performance_wipeData_dialog_negativeButton">Cancel</string>
+    <string name="preference_performance_wipeData_toast_success">Performance data has been wiped</string>
+
+    <string name="preferenceScreen_connection_title">Connection</string>
+    <string name="preferenceScreen_connection_summary">Control connection options</string>
+
+    <string name="preferenceCategory_general_title">General</string>
+
+    <string name="checkBoxPreference_connection_useBackground_title">Use background connection</string>
+    <string name="checkBoxPreference_connection_useBackground_summary">Allows the connection service to stay open in the background</string>
+
+    <string name="preferenceCategory_security_title">Security</string>
+
+    <string name="checkBoxPreference_connection_useMTM_title">Show certificate dialog</string>
+    <string name="checkBoxPreference_connection_useMTM_summary">Allows accepting untrusted certificates; this option is not permitted when using pinned certificates</string>
+    <string name="checkBoxPreference_connection_showEncryption_title">Unlock encryption options</string>
+    <string name="checkBoxPreference_connection_showEncryption_summary">Allows setting encryption type for connections</string>
+    <string name="checkBoxPreference_connection_useDesktopMode_title">Use desktop mode</string>
+    <string name="checkBoxPreference_connection_useDesktopMode_summary">Allows use of whole virtual desktop, not just apps</string>
+
+</resources>

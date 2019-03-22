@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MemorizingTrustManager/MemorizingTrustManager.iml" filepath="$PROJECT_DIR$/MemorizingTrustManager/MemorizingTrustManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecureWebSockets/SecureWebSockets.iml" filepath="$PROJECT_DIR$/SecureWebSockets/SecureWebSockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svmp-android-client/svmp-android-client.iml" filepath="$PROJECT_DIR$/svmp-android-client/svmp-android-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/svmp-protocol-def/svmp-protocol-def.iml" filepath="$PROJECT_DIR$/svmp-protocol-def/svmp-protocol-def.iml" />
+    </modules>
+  </component>
+</project>

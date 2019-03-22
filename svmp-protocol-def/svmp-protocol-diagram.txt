@@ -1,0 +1,60 @@
+For more detailed information, see the page at: https://svmp.github.io/protocol.html
+
+Client                                       Proxy                            VM
+------                                       -----                            --
+              Connect to port 8080
+   ------------------------------------------->
+
+                                                      Connect to port 8001
+                                                ------------------------------>
+
+
+                                                --REQUEST--------------------->
+                                                  type = VIDEO_PARAMS, content = VideoStreamInfo
+                                                  videoInfo = { iceServers,
+                                                                videoConstraints,
+                                                                pcConstraints }**
+
+
+   <------------------------------------------- <--------------------RESPONSE--
+                                                  type = VMREADY
+
+
+   --REQUEST----------------------------------> ------------------------------>
+     type = LOCATION, content = LocationRequest
+     locationRequest = { ... }
+
+
+   --REQUEST----------------------------------> ------------------------------>
+     type = TIMEZONE, content = string
+
+
+   --REQUEST----------------------------------> ------------------------------>
+     type = SCREENINFO
+
+
+   <------------------------------------------- <--------------------RESPONSE--
+     type = SCREENINFO, content = ScreenInfo
+     screenInfo = { x, y }
+
+
+   --REQUEST----------------------------------> ------------------------------>
+     type = ROTATION_INFO, content = RotationInfo
+     rotationInfo = { rotation }
+
+
+   --REQUEST----------------------------------> ------------------------------>
+     type = CONFIG, content = Config
+     config = { hardKeyboard }
+
+
+   --REQUEST----------------------------------> ------------------------------>
+     type = APPS, content = AppsRequest
+     apps = { ... }
+
+
+   <-------------------------------------------------------------------------->
+                                       PROXYING
+
+
+** All three are JSON strings that originate from the proxy's config file.
